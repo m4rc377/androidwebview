@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         web.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
 
         web.setWebViewClient(new WebViewClient());
-        web.loadUrl("https://skripsiongen.herokuapp.com/");
+        web.loadUrl("https://domain.tdl/");
 
     }
 }
